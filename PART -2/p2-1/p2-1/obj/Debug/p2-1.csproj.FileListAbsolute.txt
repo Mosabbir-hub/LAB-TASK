@@ -1,0 +1,7 @@
+E:\LAB-TASK\LAB TASK -1\PART -2\p2-1\p2-1\bin\Debug\p2-1.exe.config
+E:\LAB-TASK\LAB TASK -1\PART -2\p2-1\p2-1\bin\Debug\p2-1.exe
+E:\LAB-TASK\LAB TASK -1\PART -2\p2-1\p2-1\bin\Debug\p2-1.pdb
+E:\LAB-TASK\LAB TASK -1\PART -2\p2-1\p2-1\obj\Debug\p2-1.csprojAssemblyReference.cache
+E:\LAB-TASK\LAB TASK -1\PART -2\p2-1\p2-1\obj\Debug\p2-1.csproj.CoreCompileInputs.cache
+E:\LAB-TASK\LAB TASK -1\PART -2\p2-1\p2-1\obj\Debug\p2-1.exe
+E:\LAB-TASK\LAB TASK -1\PART -2\p2-1\p2-1\obj\Debug\p2-1.pdb

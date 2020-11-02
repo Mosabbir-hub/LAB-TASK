@@ -1,0 +1,7 @@
+F:\LAB-TASK\LAB TASK -1\PART -1\p1 -1\bin\Debug\p1 -1.exe.config
+F:\LAB-TASK\LAB TASK -1\PART -1\p1 -1\bin\Debug\p1 -1.exe
+F:\LAB-TASK\LAB TASK -1\PART -1\p1 -1\bin\Debug\p1 -1.pdb
+F:\LAB-TASK\LAB TASK -1\PART -1\p1 -1\obj\Debug\p1 -1.csprojAssemblyReference.cache
+F:\LAB-TASK\LAB TASK -1\PART -1\p1 -1\obj\Debug\p1 -1.csproj.CoreCompileInputs.cache
+F:\LAB-TASK\LAB TASK -1\PART -1\p1 -1\obj\Debug\p1 -1.exe
+F:\LAB-TASK\LAB TASK -1\PART -1\p1 -1\obj\Debug\p1 -1.pdb
